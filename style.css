@@ -116,7 +116,7 @@ picture{
         font-size: 1em;
         text-align:unset;
         background: url(./images/pattern-quotes.svg) no-repeat;
-        background-position: 2em 3em;
+        background-position: 2em 3.3em;
     }
     .content p{
         padding-bottom: 1.8em;
